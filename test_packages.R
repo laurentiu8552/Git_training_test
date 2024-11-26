@@ -1,3 +1,3 @@
 library(RPostgres)
-library(tidyverse) #hahhahahah
+library(tidyverse) #load many packages
 library(MASS)
